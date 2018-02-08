@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+
+body{
+  height:700px;
+  background-color:rgb(4, 149, 109);
+   border: 50px solid transparent;
+    padding: 15px;
+    -webkit-border-image: url(https://static1.squarespace.com/static/55a05fe1e4b08588907f8c08/55d55337e4b0e0ffdf4e204c/56f886ce45bf216ba3bd45a6/1517009253453/bright+dashes.png?format=500w) 30 round; 
+    -o-border-image: url(https://static1.squarespace.com/static/55a05fe1e4b08588907f8c08/55d55337e4b0e0ffdf4e204c/56f886ce45bf216ba3bd45a6/1517009253453/bright+dashes.png?format=500w) 30 round;
+    border-image: url(https://static1.squarespace.com/static/55a05fe1e4b08588907f8c08/55d55337e4b0e0ffdf4e204c/56f886ce45bf216ba3bd45a6/1517009253453/bright+dashes.png?format=500w) 30 round;
+}
+
+#vine{
+ width:400px;
+ height:400px;
+  
+}
+
+#box{
+  height:500px;
+  display:flex;
+  justify-content:center;
+}
+.alex{
+  text-align:center;
+  font-family: 'Megrim', cursive;
+}
+
+#spacing-bar{
+  text-align:center;
+}
+
+#movable{
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  margin-right:20px;
+ }
