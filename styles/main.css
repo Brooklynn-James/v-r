@@ -13,14 +13,14 @@ body{
 #vine{
  width:400px;
  height:400px;
+  
 }
 
 #box{
   height:500px;
-  display-flex:row;
-  text-align:center;
-  }
-
+  display:flex;
+  justify-content:center;
+}
 .alex{
   text-align:center;
   font-family: 'Megrim', cursive;
@@ -31,5 +31,8 @@ body{
 }
 
 #movable{
-  display-flex:column;
-}
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  margin-right:20px;
+ }

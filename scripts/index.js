@@ -34,17 +34,35 @@ var myobject = {
 function clicker(event) {
   var myinput = document.getElementById('myinput');
   var theText = myinput.value;
+  
   if (theText.length > 0){
+    //set something here
+    var hasMatch = false;
+    
     for (var prop in myobject) {
+      
     if (myobject.hasOwnProperty(prop)) {
         // do stuff
          if(prop.includes(theText)){
          var myimage = event.target;
-  myimage.src = myobject[prop];
+         myimage.src = myobject[prop];
+           hasMatch = true;
+    } else{
+      // this prop doesn't match
+      //maybe another one does?
+      
+     }
     }
-}
    }
+    // it is done looping
+    // are there any matches?
+    //is hasMatch still false?
+    if (hasMatch === false){
+  var myimg = event.target;
+      myimg.src = "https://brooklynn-james.github.io/v-r/word-art.png"
+}  
   }
+ 
  }
 
 var mybutton = document.getElementById('mybutton');
