@@ -1,5 +1,5 @@
 var myobject = {
-  vine:"http://www.kgmbiz.com/wp-content/uploads/2015/05/vine-logo.png", 
+  vine:"dancer.jpeg", 
   
   'it is wednesday my dudes':"https://i.ytimg.com/vi/du-TY1GUFGk/hqdefault.jpg",
   
