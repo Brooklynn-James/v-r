@@ -5,9 +5,9 @@ body{
   background-color:rgb(4, 149, 109);
    border: 50px solid transparent;
     padding: 15px;
-    -webkit-border-image: url(https://static1.squarespace.com/static/55a05fe1e4b08588907f8c08/55d55337e4b0e0ffdf4e204c/56f886ce45bf216ba3bd45a6/1517009253453/bright+dashes.png?format=500w) 30 round; 
-    -o-border-image: url(https://static1.squarespace.com/static/55a05fe1e4b08588907f8c08/55d55337e4b0e0ffdf4e204c/56f886ce45bf216ba3bd45a6/1517009253453/bright+dashes.png?format=500w) 30 round;
-    border-image: url(https://static1.squarespace.com/static/55a05fe1e4b08588907f8c08/55d55337e4b0e0ffdf4e204c/56f886ce45bf216ba3bd45a6/1517009253453/bright+dashes.png?format=500w) 30 round;
+    -webkit-border-image: url(images/bright+dashes.png) 30 round; 
+    -o-border-image: url(images/bright+dashes.png) 30 round;
+    border-image: url(images/bright+dashes.png) 30 round;
 }
 
 #vine{
