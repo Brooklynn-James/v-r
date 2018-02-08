@@ -1,33 +1,33 @@
 var myobject = {
   vine:"dancer.jpeg", 
   
-  'it is wednesday my dudes':"https://i.ytimg.com/vi/du-TY1GUFGk/hqdefault.jpg",
+  'it is wednesday my dudes':"dancer.jpeg",
   
- 'there is only one thing worse than a rapist': 'http://s1.storage.akamai.coub.com/get/b184/p/coub/simple/cw_timeline_pic/baeaf8076cc/13acf14fa312202fff9a1/med_1506200458_image.jpg',
+ 'there is only one thing worse than a rapist': 'dancer.jpeg',
   
-  adam:"https://i.ytimg.com/vi/kZSfPPJ4Fk8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFWRhQvBVOvtCXcFcJfCne-pzRBg",
+  adam:"dancer.jpeg",
   
-  'chris is that a weed':"https://i.ytimg.com/vi/g6cIYDvFS-U/hqdefault.jpg",
+  'chris is that a weed':"dancer.jpeg",
   
-  'stop I couldve dropped my croissant':"https://i.ytimg.com/vi/hRFUZBXOWZI/hqdefault.jpg",
+  'stop I couldve dropped my croissant':"dancer.jpeg",
   
-  patricia:"https://i.ytimg.com/vi/Q1nlQXtqvnY/hqdefault.jpg",
+  patricia:"dancer.jpeg",
   
-  'road work ahead':"https://assets.rbl.ms/16953297/980x.jpg",
+  'road work ahead':"dancer.jpeg",
   
-  'what up im jared':"https://assets.rbl.ms/17112438/980x.jpg",
+  'what up im jared':"dancer.jpeg",
   
-  'welcome to chilis':"https://images1.dallasobserver.com/imager/u/745xauto/8853432/screengrab_irham_youtube_welcome_to_chili_s_martinez.jpg",
+  'welcome to chilis':"dancer.jpeg",
   
-  'I cant belive youve done this':"https://i.ytimg.com/vi/_nK4JF8L23c/hqdefault.jpg",
+  'I cant belive youve done this':"dancer.jpeg",
   
- 'take on me':"https://i.ytimg.com/vi/yYhzKW0I-Fk/hqdefault.jpg",
+ 'take on me':"dancer.jpeg",
   
-  'when life gives you lemons':"https://v.cdn.vine.co/r/thumbs/F63933B8B01141763904460980224_2.5.1.5529607009767109619.mp4.jpg?versionId=grykH25q9lvJ2DgSgUIhBM4AFDJwmaw_",
+  'when life gives you lemons':"dancer.jpeg",
   
-  'lebron james':"https://v.cdn.vine.co/r/thumbs/90A66AB70F1094430857206321152_1403906826919_imagef389b591da.jpg?versionId=O6uJ9Y381X3YvMqW6Mtcbs_3f4q7wQ7U",
+  'lebron james':"dancer.jpeg",
   
-  'get down to del taco':"http://80skiparty.com/wp-content/uploads/2018/01/luxury-taco-meme-del-taco-fresh-avocado-vine-youtube-taco-meme.jpg",
+  'get down to del taco':"dancer.jpeg",
 
 }
 //Start of function stuff 
